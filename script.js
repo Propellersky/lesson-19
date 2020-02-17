@@ -64,38 +64,3 @@ third.onmousemove = function () {
 
 
 
-/* let a = 0;
-first.onmousemove = function () {
-    a++;
-    this.style.width = 100 + 'px';
-    first.onmouseleave = function () {
-        a++;
-        this.style.width = 70 + 'px';
-    }
-}
- */
-
-
-
-/* let b = 0;
-first.onmouseleave = function () {
-    b++;
-    this.style.width = 70 + 'px';
-}
-*/
-
-/*  let c = 0;
-first.onmouseleave = function () {
-    b++;
-    this.style.width = 70 + 'px';
-}
-let d = 0;
-first.onmouseleave = function () {
-    b++;
-    this.style.width = 70 + 'px';
-}
-let i = 0;
-first.onmouseleave = function () {
-    b++;
-    this.style.width = 70 + 'px';
-} */
